@@ -1,4 +1,4 @@
-CodeCraftHub API
+#CodeCraftHub API
 Project overview: A simple, beginner-friendly REST API built with Node.js and Express to track learning courses. Data is stored in a single JSON file (courses.json) instead of a database. No authentication or user management—ideal for learning REST basics and file-based persistence.
 
 Features
